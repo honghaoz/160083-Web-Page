@@ -1,0 +1,76 @@
+App.progressCountTotal = 9;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/100_1314.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = '100_1314.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/100_1314_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/100_1314_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/100_1314_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/100_1314_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/100_1314_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/100_1314_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/DSC00725.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'DSC00725.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00725_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00725_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00725_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00725_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00725_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00725_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/DSC00755.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'DSC00755.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00755_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00755_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/DSC00755_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00755_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00755_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/DSC00755_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_1464.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'IMG_1464.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1464_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1464_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1464_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1464_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1464_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1464_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_1717.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'IMG_1717.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1717_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1717_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1717_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1717_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1717_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1717_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_1979.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'IMG_1979.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1979_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1979_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_1979_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1979_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1979_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_1979_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_2196.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'IMG_2196.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2196_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2196_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2196_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2196_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2196_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2196_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_2309.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'IMG_2309.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2309_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2309_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2309_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2309_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2309_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2309_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/网页制作/图片/班内作品秀/摄影/1/IMG_2325.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'IMG_2325.JPG';
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2325_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2325_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/images/IMG_2325_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"30", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2325_JPG.jpg') || confirm('file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2325_JPG.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///D|/网页制作/图片/班内作品秀/摄影/thumbnails/IMG_2325_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

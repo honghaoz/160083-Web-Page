@@ -1,0 +1,284 @@
+App.progressCountTotal = 35;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2386.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'nEO_IMG_IMG_2386.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2386_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2386_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2386_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2386_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2386_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2386_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2350.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'nEO_IMG_IMG_2350.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2350_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2350_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2350_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2350_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2350_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2350_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2351.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'nEO_IMG_IMG_2351.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2351_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2351_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2351_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2351_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2351_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2351_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2352.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'nEO_IMG_IMG_2352.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2352_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2352_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2352_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2352_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2352_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2352_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2353.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'nEO_IMG_IMG_2353.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2353_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2353_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2353_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2353_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2353_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2353_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2354.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'nEO_IMG_IMG_2354.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2354_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2354_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2354_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2354_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2354_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2354_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2355.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'nEO_IMG_IMG_2355.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2355_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2355_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2355_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2355_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2355_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2355_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2356.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'nEO_IMG_IMG_2356.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2356_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2356_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2356_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2356_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2356_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2356_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2357.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'nEO_IMG_IMG_2357.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2357_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2357_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2357_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2357_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2357_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2357_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2358.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'nEO_IMG_IMG_2358.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2358_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2358_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2358_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2358_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2358_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2358_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2359.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'nEO_IMG_IMG_2359.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2359_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2359_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2359_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2359_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2359_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2359_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2360.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'nEO_IMG_IMG_2360.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2360_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2360_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2360_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2360_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2360_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2360_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2361.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'nEO_IMG_IMG_2361.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2361_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2361_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2361_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2361_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2361_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2361_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2362.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'nEO_IMG_IMG_2362.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2362_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2362_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2362_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2362_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2362_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2362_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2363.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'nEO_IMG_IMG_2363.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2363_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2363_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2363_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2363_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2363_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2363_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2364.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'nEO_IMG_IMG_2364.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2364_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2364_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2364_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2364_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2364_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2364_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2365.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'nEO_IMG_IMG_2365.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2365_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2365_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2365_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2365_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2365_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2365_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2366.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'nEO_IMG_IMG_2366.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2366_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2366_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2366_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2366_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2366_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2366_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2367.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'nEO_IMG_IMG_2367.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2367_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2367_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2367_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2367_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2367_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2367_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2368.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'nEO_IMG_IMG_2368.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2368_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2368_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2368_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2368_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2368_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2368_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2369.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'nEO_IMG_IMG_2369.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2369_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2369_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2369_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2369_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2369_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2369_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2370.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'nEO_IMG_IMG_2370.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2370_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2370_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2370_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2370_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2370_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2370_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2371.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'nEO_IMG_IMG_2371.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2371_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2371_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2371_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2371_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2371_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2371_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2372.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'nEO_IMG_IMG_2372.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2372_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2372_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2372_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2372_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2372_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2372_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2373.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'nEO_IMG_IMG_2373.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2373_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2373_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2373_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2373_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2373_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2373_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2374.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'nEO_IMG_IMG_2374.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2374_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2374_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2374_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2374_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2374_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2374_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2375.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'nEO_IMG_IMG_2375.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2375_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2375_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2375_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2375_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2375_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2375_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2376.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'nEO_IMG_IMG_2376.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2376_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2376_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2376_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2376_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2376_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2376_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2377.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'nEO_IMG_IMG_2377.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2377_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2377_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2377_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2377_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2377_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2377_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2379.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'nEO_IMG_IMG_2379.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2379_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2379_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2379_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2379_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2379_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2379_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2380.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'nEO_IMG_IMG_2380.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2380_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2380_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2380_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2380_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2380_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2380_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2381.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'nEO_IMG_IMG_2381.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2381_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2381_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2381_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2381_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2381_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2381_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2382.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'nEO_IMG_IMG_2382.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2382_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2382_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2382_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2382_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2382_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2382_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2383.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'nEO_IMG_IMG_2383.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2383_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2383_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2383_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2383_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2383_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2383_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/quweiyundonghui/nEO_IMG_IMG_2385.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'nEO_IMG_IMG_2385.jpg';
+if (!Files.exists('file:///I|/quwei/images/nEO_IMG_IMG_2385_jpg.jpg') || confirm('file:///I|/quwei/images/nEO_IMG_IMG_2385_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/images/nEO_IMG_IMG_2385_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2385_jpg.jpg') || confirm('file:///I|/quwei/thumbnails/nEO_IMG_IMG_2385_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/quwei/thumbnails/nEO_IMG_IMG_2385_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+'done';

@@ -1,0 +1,140 @@
+App.progressCountTotal = 17;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1508.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'nEO_IMG_IMG_1508.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1508_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1508_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1508_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1508_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1508_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1508_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1509.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'nEO_IMG_IMG_1509.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1509_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1509_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1509_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1509_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1509_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1509_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1510.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'nEO_IMG_IMG_1510.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1510_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1510_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1510_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1510_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1510_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1510_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1511.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'nEO_IMG_IMG_1511.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1511_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1511_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1511_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1511_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1511_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1511_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1512.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'nEO_IMG_IMG_1512.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1512_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1512_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1512_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1512_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1512_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1512_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1513.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'nEO_IMG_IMG_1513.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1513_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1513_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1513_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1513_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1513_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1513_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1514.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'nEO_IMG_IMG_1514.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1514_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1514_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1514_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1514_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1514_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1514_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1515.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'nEO_IMG_IMG_1515.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1515_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1515_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1515_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1515_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1515_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1515_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1516.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'nEO_IMG_IMG_1516.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1516_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1516_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1516_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1516_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1516_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1516_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1517.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'nEO_IMG_IMG_1517.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1517_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1517_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1517_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1517_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1517_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1517_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1518.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'nEO_IMG_IMG_1518.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1518_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1518_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1518_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1518_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1518_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1518_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1519.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'nEO_IMG_IMG_1519.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1519_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1519_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1519_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1519_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1519_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1519_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1520.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'nEO_IMG_IMG_1520.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1520_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1520_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1520_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1520_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1520_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1520_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1521.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'nEO_IMG_IMG_1521.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1521_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1521_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1521_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1521_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1521_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1521_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1522.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'nEO_IMG_IMG_1522.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1522_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1522_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1522_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1522_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1522_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1522_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1523.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'nEO_IMG_IMG_1523.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1523_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1523_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1523_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1523_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1523_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1523_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/lanqiusai/nEO_IMG_IMG_1524.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'nEO_IMG_IMG_1524.jpg';
+if (!Files.exists('file:///I|/lanqiu/images/nEO_IMG_IMG_1524_jpg.jpg') || confirm('file:///I|/lanqiu/images/nEO_IMG_IMG_1524_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/images/nEO_IMG_IMG_1524_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1524_jpg.jpg') || confirm('file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1524_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/lanqiu/thumbnails/nEO_IMG_IMG_1524_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+'done';

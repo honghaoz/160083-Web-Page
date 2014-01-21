@@ -1,0 +1,308 @@
+App.progressCountTotal = 38;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11032.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'nEO_IMG_SDC11032.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11032_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11032_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11032_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11032_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11032_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11032_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11034.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'nEO_IMG_SDC11034.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11034_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11034_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11034_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11034_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11034_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11034_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11035.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'nEO_IMG_SDC11035.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11035_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11035_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11035_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11035_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11035_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11035_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11036.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'nEO_IMG_SDC11036.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11036_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11036_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11036_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11036_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11036_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11036_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11037.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'nEO_IMG_SDC11037.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11037_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11037_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11037_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11037_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11037_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11037_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11038.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'nEO_IMG_SDC11038.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11038_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11038_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11038_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11038_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11038_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11038_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11039.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'nEO_IMG_SDC11039.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11039_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11039_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11039_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11039_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11039_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11039_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11040.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'nEO_IMG_SDC11040.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11040_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11040_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11040_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11040_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11040_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11040_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11041.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'nEO_IMG_SDC11041.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11041_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11041_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11041_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11041_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11041_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11041_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11042.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'nEO_IMG_SDC11042.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11042_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11042_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11042_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11042_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11042_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11042_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11043.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'nEO_IMG_SDC11043.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11043_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11043_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11043_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11043_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11043_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11043_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11045.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'nEO_IMG_SDC11045.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11045_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11045_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11045_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11045_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11045_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11045_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11046.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'nEO_IMG_SDC11046.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11046_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11046_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11046_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11046_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11046_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11046_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11047.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'nEO_IMG_SDC11047.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11047_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11047_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11047_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11047_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11047_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11047_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11049.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'nEO_IMG_SDC11049.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11049_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11049_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11049_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11049_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11049_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11049_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11051.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'nEO_IMG_SDC11051.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11051_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11051_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11051_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11051_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11051_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11051_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11052.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'nEO_IMG_SDC11052.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11052_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11052_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11052_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11052_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11052_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11052_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11053.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'nEO_IMG_SDC11053.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11053_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11053_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11053_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11053_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11053_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11053_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11054.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'nEO_IMG_SDC11054.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11054_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11054_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11054_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11054_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11054_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11054_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11055.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'nEO_IMG_SDC11055.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11055_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11055_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11055_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11055_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11055_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11055_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11056.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'nEO_IMG_SDC11056.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11056_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11056_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11056_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11056_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11056_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11056_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11057.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'nEO_IMG_SDC11057.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11057_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11057_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11057_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11057_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11057_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11057_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11058.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'nEO_IMG_SDC11058.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11058_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11058_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11058_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11058_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11058_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11058_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11059.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'nEO_IMG_SDC11059.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11059_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11059_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11059_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11059_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11059_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11059_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11060.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'nEO_IMG_SDC11060.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11060_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11060_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11060_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11060_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11060_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11060_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11061.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'nEO_IMG_SDC11061.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11061_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11061_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11061_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11061_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11061_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11061_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11062.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'nEO_IMG_SDC11062.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11062_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11062_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11062_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11062_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11062_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11062_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11063.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'nEO_IMG_SDC11063.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11063_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11063_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11063_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11063_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11063_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11063_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11064.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'nEO_IMG_SDC11064.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11064_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11064_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11064_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11064_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11064_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11064_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11065.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'nEO_IMG_SDC11065.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11065_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11065_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11065_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11065_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11065_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11065_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11066.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'nEO_IMG_SDC11066.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11066_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11066_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11066_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11066_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11066_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11066_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11067.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'nEO_IMG_SDC11067.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11067_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11067_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11067_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11067_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11067_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11067_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11068.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'nEO_IMG_SDC11068.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11068_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11068_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11068_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11068_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11068_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11068_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11069.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'nEO_IMG_SDC11069.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11069_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11069_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11069_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11069_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11069_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11069_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11070.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'nEO_IMG_SDC11070.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11070_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11070_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11070_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11070_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11070_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11070_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11071.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = 'nEO_IMG_SDC11071.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11071_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11071_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11071_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11071_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11071_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11071_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11072.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = 'nEO_IMG_SDC11072.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11072_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11072_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11072_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11072_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11072_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11072_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///I|/第三次/nEO_IMG_SDC11073.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = 'nEO_IMG_SDC11073.jpg';
+if (!Files.exists('file:///I|/di——3/images/nEO_IMG_SDC11073_jpg.jpg') || confirm('file:///I|/di——3/images/nEO_IMG_SDC11073_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/images/nEO_IMG_SDC11073_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///I|/di——3/thumbnails/nEO_IMG_SDC11073_jpg.jpg') || confirm('file:///I|/di——3/thumbnails/nEO_IMG_SDC11073_jpg.jpg 已经存在。点击确定替换该文件。')) 
+fw.exportDocumentAs(doc, 'file:///I|/di——3/thumbnails/nEO_IMG_SDC11073_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-144, ySize:-144}));
+fw.closeDocument(doc);
+'done';

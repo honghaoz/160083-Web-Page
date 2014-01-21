@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #99CC00;
+}
+  .spanstyle {
+  	position:absolute;
+  	visibility:visible;
+  	top:-500px;
+  	font-size: 9 pt;
+  	color: #F42450 ;
+   font-weight:NONE;
+margin-left:-10PX;
+}
+
+-->
+</style>
+<script>
+var x,y
+var step=15
+var flag=0
+var message="160083 欢迎您！"
+message=message.split("")
+var xpos=new Array()
+for (i=0;i<=message.length-1;i++) {
+	xpos[i]=-50}
+var ypos=new Array()
+for (i=0;i<=message.length-1;i++) {
+	ypos[i]=-50}
+function handlerMM(e){
+	x = (document.layers) ? e.pageX : document.body.scrollLeft+event.clientX
+	y = (document.layers) ? e.pageY : document.body.scrollTop+event.clientY
+	flag=1}
+function makesnake() {
+	if (flag==1 && document.all) {
+    	for (i=message.length-1; i>=1; i--) {
+   			xpos[i]=xpos[i-1]+step
+			ypos[i]=ypos[i-1]    	}
+		xpos[0]=x+step
+		ypos[0]=y
+		for (i=0; i<message.length-1; i++) {
+    		var thisspan = eval("span"+(i)+".style")
+    		thisspan.posLeft=xpos[i]
+			thisspan.posTop=ypos[i]    	}	}
+	else if (flag==1 && document.layers) {
+    	for (i=message.length-1; i>=1; i--) {
+   			xpos[i]=xpos[i-1]+step
+			ypos[i]=ypos[i-1]    	}
+		xpos[0]=x+step
+		ypos[0]=y
+			for (i=0; i<message.length-1; i++) {
+    		var thisspan = eval("document.span"+i)
+    		thisspan.left=xpos[i]
+			thisspan.top=ypos[i]}	}
+		var timer=setTimeout("makesnake()",30)}
+
+</script>
+</head>
+
+<body onLoad="makesnake()">
+
+<script>
+for (i=0;i<=message.length-1;i++) {
+    document.write("<span id='span"+i+"'class='spanstyle'>")
+	document.write(message[i])
+    document.write("</span>")}
+if (document.layers){
+	document.captureEvents(Event.MOUSEMOVE);}
+document.onmousemove = handlerMM;
+</SCRIPT>
+
+
+
+
+<p><a href="http://jwc.seu.edu.cn" target="_self">http://jwc.seu.edu.cn</a> 东南大学教务处网站，随时随地了解学习新动态</p>
+<p><a href="http://jwc.seu.edu.cn/wwd/pjjd/xsjdcx.asp" target="_blank">http://jwc.seu.edu.cn/wwd/pjjd/xsjdcx.asp</a> 绩点查询系统，？？？？</p>
+<p><a href="http://58.192.114.239:8080/student_index.do?method=newsload" target="_blank">http://58.192.114.239:8080/student_index.do?method=newsload</a> 早操次数查询，身体是革命的本钱</p>
+<p><a href="http://my.seu.edu.cn" target="_blank">http://my.seu.edu.cn</a> 东南大学信息门户，很实用</p>
+<p><a href="http://www.lib.seu.edu.cn:8080/opac" target="_blank">http://www.lib.seu.edu.cn:8080/opac</a> 东南大学图书馆书目检索系统</p>
+<p><a href="http://10.19.23.3/hep" target="_blank">http://10.19.23.3/hep</a> 大学体验英语Web版（英语学习中心） </p>
+<p>。。。。。。</p>
+</body>
+</html>

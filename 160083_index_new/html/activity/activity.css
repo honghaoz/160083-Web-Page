@@ -1,0 +1,14 @@
+.STYLE1 {font-size: xx-large}
+#background {position:absolute;
+	left:0px;
+	top:0px;
+	width:950px;
+	height:810px;
+	z-index:1;
+	background-image: url(../../../../light_blue.jpg);
+}
+.yahei_songti_blod {
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: medium;
+	font-weight: bold;
+}
